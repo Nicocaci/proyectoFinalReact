@@ -1,4 +1,4 @@
-# Tienda El Caballero Negro (Proyecto Final CoderHouse de React)
+# ¡BIENVENIDO A VIRTUAL HOCKEY STORE (Proyecto Final CoderHouse de React)
 
 #### `Desarrollador - Nicolas Caci`
 <div align="left">
@@ -17,8 +17,7 @@
 
 ## Descripción 📰
 
-VirtualHockeyStore
-¡Bienvenido a VirtualHockeyStore! Esta es una aplicación de ecommerce desarrollada con React para la venta de productos relacionados con el hockey. La tienda incluye características como búsqueda de productos, filtrado, carrito de compras y procesamiento de pagos.
+VirtualHockeyStore es una aplicación ecommerce desarrollada con React para la venta de productos relacionados con el hockey. La tienda incluye características como búsqueda de productos, filtrado, carrito de compras y procesamiento de pagos.
 
 
 ## Características 📑
